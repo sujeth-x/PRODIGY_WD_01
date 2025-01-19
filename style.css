@@ -1,0 +1,30 @@
+<style>
+        a{
+            color:#6dc0d5;
+            
+          
+        }
+        a:hover{
+            color:#abc4ff;
+        }
+        
+       body{
+        background:linear-gradient(to bottom,black,#001242);
+        color: aliceblue;
+       text-align: center;
+       font-family: Verdana;
+       font-family:italic;
+       font-size: 20px;
+       }
+       div{
+        color: #6dc0d5;
+        text-shadow:1px 0px 15px whitesmoke;
+       }
+       .d1{
+        font-size: normal;
+        color:#62b6cb;
+       }
+       img{
+        border-radius: 20%;
+          }
+</style>
